@@ -4,7 +4,8 @@
 A JAVA program that is able to read DICOM files, process the images, and also read the metadata present in it. 
 ## License
 
-![GitHub](https://img.shields.io/github/license/Pinak-Datta/DICOM-File-Reader?style=plastic)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## A brief About the Project
 
